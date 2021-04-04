@@ -1,4 +1,3 @@
-# Core Pkgs
 import streamlit as st 
 import cv2
 from PIL import Image,ImageEnhance
@@ -110,7 +109,7 @@ def main():
 
 			elif enhance_type == 'Blurring':
 				new_img = np.array(our_image.convert('RGB'))
-				blur_rate = st.sidebar.slider("Brightness",0.5,3.5)
+				blur_rate = st.sidebar.slider("Blurring",0.5,3.5)
 				img = cv2.cvtColor(new_img,1)
 				blur_img = cv2.GaussianBlur(img,(11,11),blur_rate)
 				st.image(blur_img)
