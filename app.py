@@ -72,7 +72,7 @@ def main():
 	"""Face Detection App"""
 
 	st.title("Face Detection App")
-	st.text("Build with Streamlit and OpenCV")
+	st.text("Build with Streamlit, OpenCV & \u2764\uFE0F by Sagnik Mitra")
 
 	activities = ["Detection","About"]
 	choice = st.sidebar.selectbox("Select Activty",activities)
