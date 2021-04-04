@@ -44,8 +44,6 @@ git push heroku master
 
 
 #### By
-+ Sagnik Mitra
++ Jesus Saves @JCharisTech
++ Jesse E.Agbe(JCharis)
 
-
-##### Special thanks to Marisa from Streamlit for her support
-##### Idea: Jesse E.Agbe(JCharis)
