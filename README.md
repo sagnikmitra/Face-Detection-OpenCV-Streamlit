@@ -42,6 +42,22 @@ apt-get install libsm6 libxrender1 libfontconfig1 libice6
 git push heroku master
 ```
 
+#### Home Page
+![](screenshots/stage1.png)
+
+#### Face Detection
+![](screenshots/faces.png)
+
+#### Eyes Detection
+![](screenshots/eye-detection.png)
+
+#### Cartoonize Picture
+![](screenshots/cartoonize.png)
+
+#### Cannize Picture
+![](screenshots/cannize.png)
+
+
 
 #### By
 + Jesus Saves @JCharisTech
