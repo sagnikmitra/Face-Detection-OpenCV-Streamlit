@@ -1,4 +1,4 @@
-# face_detection_app
+# Face Detection with OpenCV Streamlit Web App
 + Streamlit App with OpenCV
 
 ### How to Deploy on Heroku
