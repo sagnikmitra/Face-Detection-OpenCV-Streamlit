@@ -37,7 +37,7 @@ apt-get install libsm6 libxrender1 libfontconfig1 libice6
 ```
 
 #### Deploying
-+ Then just like before you run after adding to your repo you can push to heroku to deploy by
++ Then just like before you run after adding to your repository you can push to heroku to deploy by
 ```bash
 git push heroku master
 ```
